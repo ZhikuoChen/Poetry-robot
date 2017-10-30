@@ -1,0 +1,3 @@
+model_checkpoint_path: "ner.ckp-40"
+all_model_checkpoint_paths: "ner.ckp-35"
+all_model_checkpoint_paths: "ner.ckp-40"
